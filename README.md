@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-vanilla-javascript-49qjWmI92n](https://www.frontendmentor.io/solutions/advice-generator-app-vanilla-javascript-49qjWmI92n)
 - Live Site URL: [https://esealli.github.io/advice-generator/](https://esealli.github.io/advice-generator/)
 
 ## My process
