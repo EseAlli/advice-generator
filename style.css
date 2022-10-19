@@ -31,21 +31,33 @@ section {
   justify-content: center;
   align-items: center;
   padding: 2rem 2rem;
-  width: 90%;
+  inline-size: 90%;
   margin: auto;
   border-radius: 10px;
   text-align: center;
   position: relative;
+  max-inline-size: 500px;
 }
 
 h1 {
   color: var(--neon-green);
-  font-size: 1rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
 }
 
 p {
   font-size: 24px;
   color: var(--light-cyan);
+}
+
+picture {
+  margin-bottom: 2.5rem;
+  width: 100%;
+}
+
+picture img {
+  width: 100%;
 }
 
 button {
@@ -59,4 +71,10 @@ button {
   bottom: -1.25rem;
   border-radius: 50%;
   border: none;
+  transition: all .2s ease;
+}
+
+button:hover {
+  box-shadow: -1px 2px 29px -1px var(--neon-green);
+  cursor: pointer;
 }
