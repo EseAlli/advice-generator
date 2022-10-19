@@ -13,7 +13,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -31,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://esealli.github.io/advice-generator/](https://esealli.github.io/advice-generator/)
 
 ## My process
 
@@ -43,7 +42,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Vanilla JavaScript
-
 
 ### What I learned
 
